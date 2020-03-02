@@ -1,2 +1,2 @@
-# QuePint-
+# QuePinto
 Proyecto Game of code
